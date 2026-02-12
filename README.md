@@ -50,4 +50,5 @@ You can run this project directly in your browser via Google Colab.
 
 ---
 **Author:** Maria Luiza Descio
+
 *Physics Undergraduate - UNESP (Guaratinguetá)*
